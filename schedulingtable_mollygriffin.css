@@ -1,0 +1,25 @@
+/*
+* Molly Griffin
+* 10/16/18
+* Scheduling table for classes
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+    background-color: lightcyan;
+}
+
+table,td,th{border:1px solid blue;}
+
+table{border-collapse: collapse;}
+
+
+thead{background-color: lavender;}
+tfoot{background-color:aquamarine;}
