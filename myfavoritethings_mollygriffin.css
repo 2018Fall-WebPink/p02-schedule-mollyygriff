@@ -1,0 +1,21 @@
+/*
+* Molly Griffin
+* 10/26/18
+* My Favorite Things
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body { color: palevioletred
+
+}
+
+#Beach { width:200px; height:100px; }
+#Burgers{ width:300px; height:200px; }
+#Retrievers{ width:400px; height:300px; }
